@@ -31,6 +31,3 @@ Este proyecto es una aplicación de inicio de sesión simple desarrollada en And
 - **Usuario**: `uac123`
 - **Contraseña**: `12345678`
 
----
-
-Este README es corto y directo, destacando las características principales del proyecto de login.
